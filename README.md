@@ -3,16 +3,16 @@
 </div>
 
 # 👨‍💻 About Me
-I'm a passionate developer currently pursuing studies in software engineering. I love building web applications and exploring new technologies.
+I'm a passionate developer currently pursuing studies in software engineering. I love building web applications with AI and exploring new technologies also using AI.
 
 <details>
 <summary>🌱 More about me</summary>
 <br>
   
-- 🔭 I'm currently working on expanding my full-stack development skills
-- 📚 I'm always learning and exploring new technologies
-- 💬 Ask me about React, Next.js, or anything web development related!
-- ⚡ Fun fact: I can code for hours with the right music playlist
+- 🔭 I'm currently working on expanding my full-stack development skills using AI
+- 📚 I'm always learning and exploring new technologies from using Chat GPT or copilot if i'm feeling a bit freaky
+- 💬 Ask me about React, Next.js, or anything web development related! I'll make sure that chat gpt will give a good answer 👍👍👍👍
+- ⚡ Fun fact: I can code for hours with the right music playlist (and when i say i, i mean AI) 
 
 </details>
 
@@ -33,7 +33,7 @@ I'm a passionate developer currently pursuing studies in software engineering. I
 
 </div>
 
-## 🚀 Current Projects
+## 🚀 Current Projects feat. chat gpt
 - 🌐 Building a personal portfolio website with Next.js and TailwindCSS
 - 🤖 Developing a chatbot application using Python and machine learning
 - 📱 Creating responsive web applications with modern UI/UX principles
@@ -63,6 +63,8 @@ I'm a passionate developer currently pursuing studies in software engineering. I
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+
+how tf to centre div oh wait i got gpt to do it
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
