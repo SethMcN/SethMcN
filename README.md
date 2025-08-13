@@ -12,8 +12,7 @@ I'm a passionate developer currently pursuing studies in software engineering. I
 - 🔭 I'm currently working on expanding my full-stack development skills
 - 📚 I'm always learning and exploring new technologies
 - 💬 Ask me about React, Next.js, or anything web development related!
-- ⚡ Fun fact: I can code for hours with the right music playlist
-
+  
 </details>
 
 ## 🛠️ Tech Stack
