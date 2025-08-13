@@ -64,17 +64,8 @@ I'm a passionate developer currently pursuing studies in software engineering. I
 
 </div>
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SethMcN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SethMcN/SethMcN/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
